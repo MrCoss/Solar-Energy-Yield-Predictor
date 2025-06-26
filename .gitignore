@@ -1,0 +1,32 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment variables and secrets
+.env
+
+# Ignore model files if large or sensitive (optional)
+*.pkl
+
+# Ignore Jupyter Notebooks checkpoints (if used)
+.ipynb_checkpoints/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# VSCode/IDE settings
+.vscode/
+.idea/
+# Ignore coverage reports
+.coverage
