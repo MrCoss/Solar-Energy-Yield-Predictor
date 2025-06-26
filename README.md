@@ -75,6 +75,12 @@ streamlit run app.py
 * This version uses **manual weather input**.
 * Optional integration with OpenWeatherMap can be added using `.env` and API key.
 
+## ScreenShots
+![image](https://github.com/user-attachments/assets/d9227bef-a1f4-42eb-b239-363bc80938a0)
+
+
+
+
 ---
 
 ## 🙌 Acknowledgements
