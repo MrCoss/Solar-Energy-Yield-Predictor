@@ -70,21 +70,6 @@ streamlit run app.py
 
 ---
 
-## 📁 Folder Structure
-
-```
-Solar-Energy-Yield-Predictor/
-├── app.py
-├── model/
-│   ├── model_daily_yield.pkl
-│   ├── scaler_daily_yield.pkl
-│   └── feature_names.pkl
-├── .gitignore
-└── README.md
-```
-
----
-
 ## 🔐 Notes
 
 * This version uses **manual weather input**.
