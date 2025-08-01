@@ -162,19 +162,19 @@ This project uses a pre-trained machine learning model to predict solar energy y
 
 ---
 
-## 🛠 Features
+## Features
 
-- 📍 Input location (city)
-- 🌡️ Manual input for ambient/module temperature
-- ☀️ Irradiation control (W/m²)
-- ⏰ Date & time selection
-- 🤖 ML-based prediction (using trained `.pkl` model)
-- 📊 Detailed input display
-- ✅ Fully offline mode — no API needed
+- Input location (city)
+- Manual input for ambient/module temperature
+- ☀Irradiation control (W/m²)
+- Date & time selection
+- ML-based prediction (using trained `.pkl` model)
+- Detailed input display
+- Fully offline mode — no API needed
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install dependencies via pip:
 
@@ -192,7 +192,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 streamlit run app.py
@@ -200,7 +200,7 @@ streamlit run app.py
 
 ---
 
-## 🧠 Model Info
+## Model Info
 
 * Trained with features like:
 
@@ -219,7 +219,7 @@ streamlit run app.py
 
 ---
 
-## 🔐 Notes
+## Notes
 
 * This version uses **manual weather input**.
 * Optional integration with OpenWeatherMap can be added using `.env` and API key.
@@ -232,7 +232,7 @@ streamlit run app.py
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 * Built using [Streamlit](https://streamlit.io/)
 * Machine learning powered by [scikit-learn](https://scikit-learn.org/)
