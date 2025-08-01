@@ -166,7 +166,7 @@ This project uses a pre-trained machine learning model to predict solar energy y
 
 - Input location (city)
 - Manual input for ambient/module temperature
-- ☀Irradiation control (W/m²)
+- Irradiation control (W/m²)
 - Date & time selection
 - ML-based prediction (using trained `.pkl` model)
 - Detailed input display
